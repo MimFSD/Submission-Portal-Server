@@ -20,3 +20,5 @@ Thumbs.db
 *.old
 *.orig
 *.lock
+
+/src/generated/prisma
